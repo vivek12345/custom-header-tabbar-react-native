@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_1b6abc95c38f3b6e2e5e89c7ae17e0d0e9496016.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_f9c3e2d9827f4cc934d5ffbdee3a867c14f168dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_ad549c52e060a8b5a26c9f9e953c485b8c7d7129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_50edde7bc922c8a83c2d4599c1a85d7e2569f7fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_484ef5146dc5b6b9077a0ee39d5aac919121e726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_446cea141e828f2ded9e4cf2bae0bfcb2bf769f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_71e14c3862faef07cd389feff49caa25029572d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c7675ab0794832efb94e9df1bc728b83b2aa2134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_29492099f64d597d55da20edb0ca85918a8f360b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_7a4ee4ef75c66bfb7b3dae9c57690c1c3fb58fb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/customheadertabbarreactnative/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/customheadertabbarreactnative-react-native-vector-icons-unspecified_3e4f46cd47a4984b421213b829297b6c1b116229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_1cd45ae44c424e9b5fa6c7c412f89799b54c1834.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_5b8171e66067de479504b28d209bc42d32ba1ee3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_31737c2f062d420c8f8da6273180f7c1d76c6390.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/customheadertabbarreactnative/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2dc548cfd5edba58b8639fb9bd160fdb374115b6">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/customheadertabbarreactnative-react-native-linear-gradient-unspecified_4fae1bcf1a413ea23fb3cf12469301091bbcbc3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_5ff3c41786c01813fe3473c9745b3fd727ee4e74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ecb3bdcec851be8f4d5624f985d6abd47f949cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_0775d05863f93d95044f4462950ced124cecd915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_30c53292308175e7acdd25065f5aff4784dc6f8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_f1e01006e3887755e024e276ebe3621a2f0b65e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_a6ad2d19064628934a2067cf73f1a4a96b8ea625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_613a769bacd70596746b7f4a3421368ca6dd253e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/viveknayyar/vivek/custom-header-tabbar-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_3d4ec469262f2394b4188a4404a2ef191c6cdc86.jar" />
+    </item>
+
+</items>
